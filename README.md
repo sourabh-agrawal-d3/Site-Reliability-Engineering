@@ -1,7 +1,9 @@
 # Site Reliability Engineering
 
 <p align="center">
-  ./images/sre-lifecycle.png
+
+![SRE Lifecycle](images/sre-lifecycle.png)
+
 </p>
 
 <p align="center">
@@ -113,7 +115,9 @@ this repository aims to provide practical, actionable, and reusable knowledge.
 # Core Pillars of SRE
 
 <p align="center">
-  <img src="./images/observability-g
+
+  ![Observability Pillars](images/observability-pillars.png)
+
 </p>
 
 The repository focuses on the foundational principles that drive successful Site Reliability Engineering:
@@ -131,7 +135,9 @@ The repository focuses on the foundational principles that drive successful Site
 # Observability Architecture
 
 <p align="center">
-  ./images/sre-platform.png
+
+![SRE Platform](images/sre-platform.png)
+
 </p>
 
 A modern observability platform typically combines:
@@ -172,7 +178,9 @@ PagerDuty / Teams / Slack
 # Incident Management Lifecycle
 
 <p align="center">
-  ./images/incident-management.png
+
+  ![Incident Management](images/incident-management.png)
+
 </p>
 
 ```text
